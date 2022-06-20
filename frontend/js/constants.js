@@ -1,5 +1,5 @@
 const contractAddress = "0xECFf1Dfa6311C0707CB03250391434eC9049bb90"; //Replace with your own contract address
-const chain = 'polygon'; // rinkeby or polygon
+const chain = 'rinkeby'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the Nu10 CirKillz NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
